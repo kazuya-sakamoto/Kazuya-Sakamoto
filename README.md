@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kazuya Sakamoto
 
-Product engineer at [Ubie](https://ubie.life/), building AI products with LLMs !
+Software Engineer at [Ubie](https://ubie.life/), building AI products with LLMs !
 
 - 🧠 Into **LLM products**: agents with LangGraph, evals (LLM-as-a-judge), and making AI output safe and reliable
 - 📱 Started on the frontend (TypeScript / React Native / React / Nuxt.js), now working across mobile, backend, and data
